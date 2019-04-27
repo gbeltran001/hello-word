@@ -1,3 +1,3 @@
 # hello-word
-Otro repositorio
-German Beltran edits
+Hi
+Name: German Beltran edits
